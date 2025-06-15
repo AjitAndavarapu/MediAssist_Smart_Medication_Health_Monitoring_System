@@ -65,8 +65,8 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/Mediassist.git
-cd Mediassist
+git clone https://github.com/AjitAndavarapu/MediAssist_Smart_Medication_Health_Monitoring_System.git
+cd MediAssist_Smart_Medication_Health_Monitoring_System
 
 cd mediassist
 flutter pub get
