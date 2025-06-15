@@ -39,9 +39,7 @@
 
 ---
 
-## 📱 Mobile App Screenshots
 
-*(Add relevant screenshots here)*
 
 ---
 
@@ -54,4 +52,29 @@
 - Sensor data reached **92% accuracy** across conditions
 
 ---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Node.js & MongoDB
+- Firebase Project with FCM enabled
+- Hardware (Raspberry Pi/Arduino + Sensors)
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/yourusername/Mediassist.git
+cd Mediassist
+
+cd mediassist
+flutter pub get
+flutter run
+
+### Open another terminal and run these commands
+cd backend
+npm install
+npm run dev
+
 
